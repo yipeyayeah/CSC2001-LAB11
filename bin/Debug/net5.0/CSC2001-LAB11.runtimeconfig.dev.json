@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gideo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gideo\\.nuget\\packages"
+    ]
+  }
+}
